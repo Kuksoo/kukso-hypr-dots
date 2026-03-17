@@ -3,7 +3,7 @@
 
 # Features:
 - Modular config structure
-- Dracula & Everforest color scheme
+- Everforest color scheme
 - Dwindle layout with smooth animations
 - Built-in screenshot system (Grim/Slurp)
 - Multi-language support (US/RU)
