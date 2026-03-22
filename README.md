@@ -14,11 +14,11 @@
 - `git clone https://github.com/Kuksoo/kukso-hypr-dots/ ~/.config/hypr`
 - If you want use my browser, telegram client and file manager:
 - `paru -S yazi zen-browser telegram-desktop`
-# Configs for another programs (optional):
-**Kitty (terminal):** 
+## Configs for another programs (optional):
+### Kitty (terminal): 
 - `mkdir ~/.config/kitty`
 - `git clone https://github.com/Kuksoo/kukso-kitty-dots ~/.config/kitty`  
-**Neovim (text editor):** 
+### Neovim (text editor): 
 - `sudo pacman -S neovim git make unzip gcc ttf-jetbrains-mono-nerd`
 - `git clone https://github.com/Kuksoo/kukso-nvim-dots/ ~/.config/nvim`
 
