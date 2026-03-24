@@ -21,6 +21,8 @@
 ### Neovim (text editor): 
 - `sudo pacman -S neovim git make unzip gcc ttf-jetbrains-mono-nerd`
 - `git clone https://github.com/Kuksoo/kukso-nvim-dots/ ~/.config/nvim`
+### Btop (system monitor):
+- Just choose theme `everforest-dark-hard`, and `Theme background` `false`
 
 # Programs:
 - Terminal: `kitty`
